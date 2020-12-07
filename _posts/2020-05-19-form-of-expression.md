@@ -1,7 +1,3 @@
----
-layout: "post"
----
-
 Hi everyone, I always wanted to have a place to jot down my thoughts. Sometimes I feel what can I say that haven't been said before but it took me a lot of time to realize that is not the point. You never know how your actions or your words might create an impact. There is a beautiful line in the movie Gladiator
 
 > What men do in life, echoes in eternity.
